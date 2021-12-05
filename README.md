@@ -1,2 +1,2 @@
-# This is a sample repository for the DS 101 session
+# DS 101 - Model Evaluation
 # 
