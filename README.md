@@ -1,1 +1,2 @@
-# acn_ds101_model_eval
+# This is a sample repository for the DS 101 session
+# 
